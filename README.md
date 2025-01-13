@@ -1,36 +1,17 @@
-# Power-Bi-Tableau
-# 🍕 Super Store Sales Dashboard 
+# Power-Bi and Tableau
 
-This repository contains a **Power BI dashboard**  that collectively 
+This repository contains a **Power BI & Tableau Dashboard**  that collectively analyze data, providing valuable insights into business performance metrics such as revenue, order trends, and category sales. These resources are designed for stakeholders to make data-driven decisions based on comprehensive, visual analytics.
 
 ## 🚀 Features
 
-### 1. Super Store Sales Report Dashboard (``)
-- **Interactive Visuals**: 📊 This Power BI dashboard offers an interactive view of pizza sales data, showcasing key performance indicators (KPIs) such as total revenue, average order value, and more.
-- **Category & Size Breakdown**: 🔍 Analyze sales by pizza category and size for deeper insights.
-- **Trend Analysis**: 📈 Explore daily and monthly trends for total orders and revenue.
-- **Customizable Reports**: 🛠️ Modify data sources and metrics as needed for specialized analysis.
-
-### 2. SQL Analysis of Pizza Sales (`Pizza_Sales_SQL.pptx`)
-- **KPIs Overview**: Provides SQL queries to calculate vital metrics like total revenue, average order value, total pizzas sold, and total orders.
-- **Trend Insights**: Daily and monthly trends for total orders and detailed sales breakdown by pizza category and size.
-- **Top & Bottom Pizzas**: A ranking of the top and bottom 5 pizzas based on revenue and quantity sold, along with total orders.
-
-## 📋 Requirements
-
-### For Power BI Dashboard:
-- **Microsoft Power BI Desktop**: Required to open and interact with the `.pbix` file.
-
-## 🛠️ Getting Started
-
-1. **Super Store Sales Dashboard**:
-   - Download the `Super_Store_Sales_Report_Dashboard.pbix` file.
-   - Open it in Microsoft Power BI Desktop.
-   - Interact with the various visuals to gain insights into sales performance.
+- **1. Dashboard Creation:**: 📊 This Power BI dashboard offers an interactive view of sales data, Identify the KPls, design an intuitive and visually  appealing dashboard, add interactive visualizations and filtering capabilities to  allow users to explore the data at various levels of granularity.
+- **2. Data Analysis:**: 🔍 Provide valuable insights to business entities regarding the  effectiveness of their sales strategies through visualization and charts.
+- **3. Sales Forecasting:**: 📈 3. Sales Forecasting: Leverage historic data and apply time serie  generate sales forecasts for next 15 days 
+- **Actionable Insights and Recommendations:**: 🛠️ End goal is to  insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency and customer  satisfactions
+     
 
 ## 📈 Usage
-- **Business Analysis**: Use the dashboard and SQL insights to track operational KPIs and identify sales trends.
-- **Custom Reporting**: Modify the data sources and metrics within the Power BI file to tailor reports according to your specific needs.
+- **Business Analysis**: Use the dashboard insights to track operational KPIs and identify sales trends.
 
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions for improvements, additional features, or new data points, feel free to create a pull request or open an issue.
